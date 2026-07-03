@@ -9,3 +9,6 @@ console.log(escola.substring(1));//printa tudo menos o 1 "C"//
 console.log(escola.substring(0, 3));//vai até o 3 só que sem incluir//
 
 console.log('Escola '.concat(escola).concat("!"));//o .concat ele junta os conteudos//
+console.log(escola.replace(3, 'e')) ;
+
+console.log("Ana,Maria,Pedro".split(','));//o .split serve pra ir separando//

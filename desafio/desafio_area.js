@@ -5,4 +5,4 @@ let area = PI *raio *raio;
 console.log("O valor da área é "+ area +" " + "m².");
 
 area = Math.PI * raio * raio;
-console.log("O valor da área é " + area + " m²")
+console.log("O valor da área é " + area + " m²");
